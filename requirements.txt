@@ -1,0 +1,5 @@
+pip install Django==6.0.1
+pip install django-daraja
+pip install django-crispy-forms
+pip install crispy-bootstrap5
+pip install python-decouple
